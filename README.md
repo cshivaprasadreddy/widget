@@ -1,4 +1,16 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## This is a Google Review Widget
+ -> Deploy 
+<!-- Widget Usage -->
+  <div class="google-reviews-widget" 
+    data-place-id="ChIJmc80-mKRyzsRH2z5rCE4z80" ></div>
+  <script src="deployedlink/reviews-widget.js"></script>
+//can add width and height ..thus compress and enlarge the labels better to leave as it is ...
+
+# Need to have gooogle API key console - MAPS API
+https://console.cloud.google.com/apis/library/places.googleapis.com?project=boxwood-complex-450812-d7
+Add logo - GOOGLE_API_KEY
+WIDGET_LOGO_PATH=http://localhost:3000/g.jpg
 
 ## Getting Started
 
